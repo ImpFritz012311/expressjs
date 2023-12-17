@@ -1,0 +1,5 @@
+https://www.tutsmake.com/node-express-js-creating-a-restful-api-mysql-example/
+
+
+
+https://www.bezkoder.com/node-js-jwt-authentication-mysql/
